@@ -30,7 +30,7 @@ Repositório oficial da disciplina **Inteligência Artificial** (Sistemas de Inf
 | **Pré_Aula_01** | [Ritual do Curso (GitHub → Colab → Drive → Entrega)](Pre_Aula_01/README.md) |
 | **Pré_Aula_02** | [CSV + Estatística básica ](Pre_Aula_02/README.md) |
 | **Aula_01** | [IA aplicada + Hello Model (Iris) ](Aula_01/README.md) |
-| **Aula_02** | [O que é IA aplicada + Dataset TITANIC ](Aula_02/Aula_02.ipynb) |
+| **Aula_02** | [O que é IA aplicada + Dataset TITANIC ](Aula_02/README.md) |
 
 ## Avisos rápidos (evita 80% dos problemas)
 - “Rodei no Colab, mas não está no GitHub”: você precisa **baixar o `.ipynb`** e subir no seu repo.
