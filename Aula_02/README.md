@@ -85,6 +85,8 @@ A comparação foi feita olhando:
 
 ## ✅ Entregáveis da Tarefa
 - [Aula 02 — Tarefa](Tarefa.md)
+
+no GitHub do aluno
 - `Aula_02/A02_titanic_pipeline.ipynb`
 - `Aula_02/README.md`
 
