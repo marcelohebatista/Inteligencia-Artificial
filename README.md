@@ -31,6 +31,8 @@ Repositório oficial da disciplina **Inteligência Artificial** (Sistemas de Inf
 | **Pré_Aula_02** | [CSV + Estatística básica ](Pre_Aula_02/README.md) |
 | **Aula_01** | [IA aplicada + Hello Model (Iris) ](Aula_01/README.md) |
 | **Aula_02** | [Titanic (Pipeline “mínimo profissional”) ](Aula_02/README.md) |
+| **Atividade_001** | [Pipeline de Classificação (com dataset do Seaborn)”) ](Atividade_001/README.md) |
+
 
 ## Avisos rápidos (evita 80% dos problemas)
 - “Rodei no Colab, mas não está no GitHub”: você precisa **baixar o `.ipynb`** e subir no seu repo.
