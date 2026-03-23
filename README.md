@@ -30,7 +30,9 @@ Repositório oficial da disciplina **Inteligência Artificial** (Sistemas de Inf
 | **Pré_Aula_01** | [Ritual do Curso (GitHub → Colab → Drive → Entrega)](Pre_Aula_01/README.md) |
 | **Pré_Aula_02** | [CSV + Estatística básica ](Pre_Aula_02/README.md) |
 | **Aula_01** | [IA aplicada + Hello Model (Iris) ](Aula_01/README.md) |
-| **Aula_02** | [Titanic (Pipeline “mínimo profissional”) ](Aula_02/README.md) |
+| **Aula_02** | [Titanic (Pipeline “mínimo profissional”) ](Aula_02/Tarefa.md) |
+| **Aula_02 Tarefa** | [Tarefa — Aula 02 (Titanic)](Aula_02/README.md) |
+| **Aula_02 Resposta** | [Resposta Tarefa - Titanic: Pipeline “mínimo profissional”) ](Aula_02/Aula_02_correcao.ipynb) |
 | **Atividade_001** | [Pipeline de Classificação (com dataset do Seaborn)”) ](Atividade_001/README.md) |
 
 
