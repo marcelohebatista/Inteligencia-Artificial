@@ -36,6 +36,7 @@ Repositório oficial da disciplina **Inteligência Artificial** (Sistemas de Inf
 | **Aula_02 Resposta** | [Resposta Tarefa - Titanic: Pipeline “mínimo profissional”) ](Aula_02/Aula_02_correcao.ipynb) |
 | **Atividade_001** | [Pipeline de Classificação (com dataset do Seaborn) ](Atividade_001/README.md) |
 | **Datasets do Seaborn** | [Catálogo de Datasets do Seaborn ](Atividade_001/dataset_seaborn.ipynb) |
+| **Aula_03** | [Aula 03 — Neurônio Artificial, Perceptron e 1ª Rede Neural ](Aula_03/Aula_03.ipynb) |
 
 
 ## Avisos rápidos (evita 80% dos problemas)
