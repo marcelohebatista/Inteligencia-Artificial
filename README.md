@@ -37,6 +37,7 @@ Repositório oficial da disciplina **Inteligência Artificial** (Sistemas de Inf
 | **Atividade_001** | [Pipeline de Classificação (com dataset do Seaborn) ](Atividade_001/README.md) |
 | **Datasets do Seaborn** | [Catálogo de Datasets do Seaborn ](Atividade_001/dataset_seaborn.ipynb) |
 | **Aula_03** | [Aula 03 — Neurônio Artificial, Perceptron e 1ª Rede Neural ](Aula_03/Aula_03.ipynb) |
+| **Aula_04** | [Aula 04 — Redes Neurais Artificiais (Multi-Layer Perceptron - MLP) + Dataset Iris ](Aula_04/Aula_04.ipynb) |
 
 
 ## Avisos rápidos (evita 80% dos problemas)
